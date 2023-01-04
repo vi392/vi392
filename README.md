@@ -28,7 +28,8 @@
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
 - Programming languages : <br />
-    [![Java](https://img.shields.io/badge/Java-00599C?style=flat&logo=java&logoColor=white)](https://www.cplusplus.com/)
+    [![C-Language](https://img.shields.io/badge/C-00599C?style=flat&logo=java&logoColor=white)](https://www.cplusplus.com/)
+     [![Java](https://img.shields.io/badge/Java-00599C?style=flat&logo=java&logoColor=white)](https://www.cplusplus.com/)
     [![JavaScript](	https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
     
     
