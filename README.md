@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Kumar a final year Information Technology Student.</h1>
+<h1 align="center">Hi 👋, I'm Vishal Kumar .</h1>
 <h3 align="center">A passionate Software Developer , Frontend developer.</h3>
 
  <img src="https://img.shields.io/badge/-Frontend%20 ReactJS Developer-red?&style=for-the-badge"/>  <img src="https://img.shields.io/badge/-JavaScript%20Developer-yellow?&style=for-the-badge"/>    <img src="https://img.shields.io/badge/-Data Structure & Algorithms-green?&style=for-the-badge"/>
